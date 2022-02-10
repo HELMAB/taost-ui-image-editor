@@ -1,5 +1,7 @@
 # vue-image-editor
 
+> Read official documentation at [Toast UI - Image Editor](https://github.com/nhn/tui.image-editor/tree/master/apps/vue-image-editor)
+
 ## Project setup
 ```
 npm install
