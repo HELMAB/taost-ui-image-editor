@@ -69,7 +69,7 @@ export default {
         cssMaxHeight: 1200,
         includeUI: {
           loadImage: {
-            path: "http://localhost:8080/img/sample.jpg",
+            path: "/img/sample.jpg",
             name: "Bottle",
           },
         },
